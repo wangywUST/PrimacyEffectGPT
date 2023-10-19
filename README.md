@@ -1,6 +1,6 @@
 # MQuAKE
 
-This is the repository for our paper [Primacy Effect of ChatGPT: A Bias on the Order of Labels](https://openreview.net/).
+This is the repository for our paper [Primacy Effect of ChatGPT](https://openreview.net/).
 
 In this paper, we study the \textit{primacy effect} of ChatGPT: the tendency of selecting the labels at earlier positions as the answer.
 We have two main findings: i) ChatGPT's decision is sensitive to the order of labels in the prompt; ii) ChatGPT has a clearly higher chance to select the labels at earlier positions as the answer. We hope that our experiments and analyses provide additional insights into building more reliable ChatGPT-based solutions.
@@ -33,7 +33,7 @@ If you have any questions related to the repo or the paper, or you encounter any
 If you use our code in your research, please cite our work:
 ```bibtex
 @article{wang2023primacy,
-  title={Primacy Effect of ChatGPT: A Bias on the Order of Labels},
+  title={Primacy Effect of ChatGPT},
   author={Wang, Yiwei and etc.},
   journal={arXiv preprint arXiv:0000.00000},
   year={2023}
